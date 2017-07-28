@@ -7,14 +7,17 @@
     display: block;
     margin: auto;  
     padding-top: 20px;}
+.future{
+  font-size: 30px;
+}
 
 .link{
   color: blue;
 }
 
-.future{
+.para{
   text-align: center;
-  font-size: 30px;}
+  font-size: 20px;}
 
 
 .topnav a {
